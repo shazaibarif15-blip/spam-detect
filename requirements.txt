@@ -1,3 +1,6 @@
-pandas
-nltk
-streamlit
+streamlit==1.26.0
+altair==4.2.2
+nltk==3.8.1
+scikit-learn==1.2.2
+numpy==1.25.0
+pandas==2.1.0
